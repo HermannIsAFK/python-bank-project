@@ -1,0 +1,10 @@
+{
+    "alice": {
+        "age": 22,
+        "balance": 2500
+    },
+    "bob": {
+        "age": 25,
+        "balance": 3200
+    }
+}
